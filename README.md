@@ -1,2 +1,3 @@
 # C-Programming-Language
-Homeworks
+Introduction To Programming Homeworks
+This is my first homework.(multiplier game)
